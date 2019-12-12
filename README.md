@@ -1,3 +1,7 @@
+# Test Project
+This is simply a test project for devops and database test purposes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
